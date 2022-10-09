@@ -1,1 +1,2 @@
-#!/bin/bash\nsort | uniqe -u
+#!/bin/bash
+sort | uniqe -u
